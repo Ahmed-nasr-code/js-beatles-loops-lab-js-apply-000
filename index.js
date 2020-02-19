@@ -27,6 +27,6 @@ var iLoveTheBeatles = function(n){
    x[i]="I love the Beatles!";i++;
    
  }
- while (i<15-n);
+ while (i<15);
  return x ;
 }
